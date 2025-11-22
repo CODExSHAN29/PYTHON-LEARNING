@@ -7,7 +7,7 @@ This repository contains **daily practice code**, **concept notebooks**, **mini-
 
 ---
 
-## 📌 What This Repository Contains
+## 📌 What This Repository Will Contain
 
 ### ✔ Python Basics  
 - Variables, data types  
